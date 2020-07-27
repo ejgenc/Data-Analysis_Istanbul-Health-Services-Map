@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="SVGRoot"
+   version="1.1"
+   viewBox="0 0 1920.0 1080.0"
+   height="1080.0px"
+   width="1920.0px"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="test2.svg.2020_07_08_17_46_11.0.svg"
+   inkscape:export-filename="C:\Users\ejgen\OneDrive\Desktop\test2_tr.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs1692">
+    <rect
+       x="654.57885"
+       y="70.710678"
+       width="436.3859"
+       height="103.03556"
+       id="rect518" />
+    <rect
+       x="379.81736"
+       y="83.842661"
+       width="101.01525"
+       height="42.426407"
+       id="rect2210" />
+    <rect
+       x="379.81736"
+       y="82.832509"
+       width="106.06602"
+       height="50.507627"
+       id="rect2204" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.94890281"
+     inkscape:cx="466.96378"
+     inkscape:cy="277.11788"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer9"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     showguides="false" />
+  <metadata
+     id="metadata1695">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Background Layer"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#4d4d4d"
+       id="rect1706"
+       width="1920"
+       height="1080"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Bubble Layer">
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="Legend Box" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Legend Layer" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Text Layer">
+    <text
+       xml:space="preserve"
+       id="text2202"
+       style="font-style:normal;font-weight:bold;font-size:18.66666667px;line-height:1.25;font-family:Arial;white-space:pre;shape-inside:url(#rect2204);fill:#000000;fill-opacity:1;stroke:none;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" />
+    <text
+       xml:space="preserve"
+       id="text2208"
+       style="font-style:normal;font-weight:bold;font-size:18.66666667px;line-height:1.25;font-family:Arial;white-space:pre;shape-inside:url(#rect2210);fill:#000000;fill-opacity:1;stroke:none;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" />
+    <g
+       id="g484"
+       transform="translate(1.1675415,206.66689)">
+      <g
+         transform="translate(0.20727539,-207.47843)"
+         id="g1895">
+        <ellipse
+           style="fill:#adc0eb;fill-opacity:1;stroke-width:0.983379"
+           id="path1765"
+           cx="266.53027"
+           cy="540"
+           rx="88.893433"
+           ry="88.893425" />
+        <ellipse
+           ry="88.893425"
+           rx="88.893433"
+           cy="540"
+           cx="464.66446"
+           id="path1765-7"
+           style="fill:#adc0eb;fill-opacity:1;stroke-width:0.983379" />
+        <ellipse
+           style="fill:#adc0eb;fill-opacity:1;stroke-width:0.983379"
+           id="path1765-7-5"
+           cx="662.79865"
+           cy="540"
+           rx="88.893433"
+           ry="88.893425" />
+        <ellipse
+           ry="88.893425"
+           rx="88.893433"
+           cy="540"
+           cx="860.93286"
+           id="path1765-7-5-4"
+           style="fill:#adc0eb;fill-opacity:1;stroke-width:0.983379" />
+        <ellipse
+           ry="88.893425"
+           rx="88.893433"
+           cy="540"
+           cx="1059.0671"
+           id="path1765-7-5-8"
+           style="fill:#adc0eb;fill-opacity:1;stroke-width:0.983379" />
+        <ellipse
+           style="fill:#adc0eb;fill-opacity:1;stroke-width:0.983379"
+           id="path1765-7-5-8-4"
+           cx="1257.2012"
+           cy="540"
+           rx="88.893433"
+           ry="88.893425" />
+        <ellipse
+           style="fill:#adc0eb;fill-opacity:1;stroke-width:0.983379"
+           id="path1765-7-5-8-7"
+           cx="1455.3353"
+           cy="540"
+           rx="88.893433"
+           ry="88.893425" />
+        <ellipse
+           style="fill:#adc0eb;fill-opacity:1;stroke-width:0.983379"
+           id="path1765-7-5-8-6"
+           cx="1653.4695"
+           cy="540"
+           rx="88.893433"
+           ry="88.893425" />
+      </g>
+      <g
+         transform="translate(-2.5421143,-419.2133)"
+         id="g1895-0">
+        <ellipse
+           ry="88.893425"
+           rx="88.893433"
+           cy="540"
+           cx="266.53027"
+           id="path1765-3"
+           style="fill:#adebd5;fill-opacity:1;stroke-width:0.983379" />
+        <ellipse
+           style="fill:#adebd5;fill-opacity:1;stroke-width:0.983379"
+           id="path1765-7-8"
+           cx="464.66446"
+           cy="540"
+           rx="88.893433"
+           ry="88.893425" />
+        <ellipse
+           ry="88.893425"
+           rx="88.893433"
+           cy="540"
+           cx="662.79865"
+           id="path1765-7-5-41"
+           style="fill:#adebd5;fill-opacity:1;stroke-width:0.983379" />
+        <ellipse
+           style="fill:#adebd5;fill-opacity:1;stroke-width:0.983379"
+           id="path1765-7-5-4-9"
+           cx="860.93286"
+           cy="540"
+           rx="88.893433"
+           ry="88.893425" />
+        <ellipse
+           style="fill:#adebd5;fill-opacity:1;stroke-width:0.983379"
+           id="path1765-7-5-8-43"
+           cx="1059.0671"
+           cy="540"
+           rx="88.893433"
+           ry="88.893425" />
+        <ellipse
+           ry="88.893425"
+           rx="88.893433"
+           cy="540"
+           cx="1257.2012"
+           id="path1765-7-5-8-4-1"
+           style="fill:#adebd5;fill-opacity:1;stroke-width:0.983379" />
+        <ellipse
+           ry="88.893425"
+           rx="88.893433"
+           cy="540"
+           cx="1455.3353"
+           id="path1765-7-5-8-7-3"
+           style="fill:#adc0eb;fill-opacity:1;stroke-width:0.983379" />
+        <ellipse
+           ry="88.893425"
+           rx="88.893433"
+           cy="540"
+           cx="1653.4695"
+           id="path1765-7-5-8-6-1"
+           style="fill:#adc0eb;fill-opacity:1;stroke-width:0.983379" />
+      </g>
+      <g
+         id="g1895-0-1"
+         transform="translate(-5.2915039,4.2564011)">
+        <ellipse
+           style="fill:#ebddad;fill-opacity:1;stroke-width:0.983379"
+           id="path1765-3-9"
+           cx="266.53027"
+           cy="540"
+           rx="88.893433"
+           ry="88.893425" />
+        <ellipse
+           ry="88.893425"
+           rx="88.893433"
+           cy="540"
+           cx="464.66446"
+           id="path1765-7-8-9"
+           style="fill:#ebddad;fill-opacity:1;stroke-width:0.983379" />
+        <ellipse
+           style="fill:#ebddad;fill-opacity:1;stroke-width:0.983379"
+           id="path1765-7-5-41-8"
+           cx="662.79865"
+           cy="540"
+           rx="88.893433"
+           ry="88.893425" />
+        <ellipse
+           ry="88.893425"
+           rx="88.893433"
+           cy="540"
+           cx="860.93286"
+           id="path1765-7-5-4-9-7"
+           style="fill:#ebddad;fill-opacity:1;stroke-width:0.983379" />
+        <ellipse
+           ry="88.893425"
+           rx="88.893433"
+           cy="540"
+           cx="1059.0671"
+           id="path1765-7-5-8-43-4"
+           style="fill:#ebddad;fill-opacity:1;stroke-width:0.983379" />
+        <ellipse
+           style="fill:#ebddad;fill-opacity:1;stroke-width:0.983379"
+           id="path1765-7-5-8-4-1-6"
+           cx="1257.2012"
+           cy="540"
+           rx="88.893433"
+           ry="88.893425" />
+        <ellipse
+           style="fill:#cccccc;fill-opacity:1;stroke-width:0.983379"
+           id="path1765-7-5-8-7-3-9"
+           cx="1455.3353"
+           cy="540"
+           rx="88.893433"
+           ry="88.893425" />
+        <ellipse
+           style="fill:#cccccc;fill-opacity:1;stroke-width:0.983379"
+           id="path1765-7-5-8-6-1-2"
+           cx="1653.4695"
+           cy="540"
+           rx="88.893433"
+           ry="88.893425" />
+      </g>
+      <g
+         transform="translate(2.956665,215.99126)"
+         id="g1895-0-1-7">
+        <ellipse
+           ry="88.893425"
+           rx="88.893433"
+           cy="540"
+           cx="266.53027"
+           id="path1765-3-9-7"
+           style="fill:#cccccc;fill-opacity:1;stroke-width:0.983379" />
+        <ellipse
+           style="fill:#cccccc;fill-opacity:1;stroke-width:0.983379"
+           id="path1765-7-8-9-6"
+           cx="464.66446"
+           cy="540"
+           rx="88.893433"
+           ry="88.893425" />
+        <ellipse
+           ry="88.893425"
+           rx="88.893433"
+           cy="540"
+           cx="662.79865"
+           id="path1765-7-5-41-8-1"
+           style="fill:#cccccc;fill-opacity:1;stroke-width:0.983379" />
+        <ellipse
+           style="fill:#cccccc;fill-opacity:1;stroke-width:0.983379"
+           id="path1765-7-5-4-9-7-3"
+           cx="860.93286"
+           cy="540"
+           rx="88.893433"
+           ry="88.893425" />
+        <ellipse
+           style="fill:#cccccc;fill-opacity:1;stroke-width:0.983379"
+           id="path1765-7-5-8-43-4-0"
+           cx="1059.0671"
+           cy="540"
+           rx="88.893433"
+           ry="88.893425" />
+        <ellipse
+           ry="88.893425"
+           rx="88.893433"
+           cy="540"
+           cx="1257.2012"
+           id="path1765-7-5-8-4-1-6-9"
+           style="fill:#cccccc;fill-opacity:1;stroke-width:0.983379" />
+        <ellipse
+           ry="88.893425"
+           rx="88.893433"
+           cy="540"
+           cx="1455.3353"
+           id="path1765-7-5-8-7-3-9-2"
+           style="fill:#cccccc;fill-opacity:1;stroke-width:0.983379" />
+        <ellipse
+           ry="88.893425"
+           rx="88.893433"
+           cy="540"
+           cx="1653.4695"
+           id="path1765-7-5-8-6-1-2-8"
+           style="fill:#cccccc;fill-opacity:1;stroke-width:0.983379" />
+      </g>
+      <text
+         id="text2200"
+         y="127.35833"
+         x="227.33272"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="127.35833"
+           x="227.33272"
+           id="tspan2198"
+           sodipodi:role="line">Hastane</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         x="420.55984"
+         y="127.35833"
+         id="text2200-8"><tspan
+           sodipodi:role="line"
+           id="tspan2198-7"
+           x="420.55984"
+           y="127.35833">Poliklinik</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         x="609.85291"
+         y="125.62655"
+         id="text2200-7"><tspan
+           sodipodi:role="line"
+           id="tspan2198-2"
+           x="609.85291"
+           y="125.62655">Tıp Merkezi</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         x="812.94427"
+         y="117.17276"
+         id="text2200-4"><tspan
+           sodipodi:role="line"
+           id="tspan2198-4"
+           x="812.94427"
+           y="117.17276">Üniversite</tspan><tspan
+           id="tspan3121"
+           sodipodi:role="line"
+           x="812.94427"
+           y="140.50613">Hastanesi</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         x="1197.5369"
+         y="114.00544"
+         id="text2200-3"><tspan
+           sodipodi:role="line"
+           id="tspan2198-28"
+           x="1197.5369"
+           y="114.00544">K. Doğum ve</tspan><tspan
+           id="tspan3123"
+           sodipodi:role="line"
+           x="1197.5369"
+           y="137.33882">Çocuk H.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         x="1019.8696"
+         y="127.35833"
+         id="text2200-2"><tspan
+           sodipodi:role="line"
+           id="tspan2198-27"
+           x="1019.8696"
+           y="127.35833">Hastane</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         x="1385.9833"
+         y="113.95075"
+         id="text2200-40"><tspan
+           sodipodi:role="line"
+           id="tspan2198-1"
+           x="1385.9833"
+           y="113.95075">Ağız ve Diş</tspan><tspan
+           id="tspan3125"
+           sodipodi:role="line"
+           x="1385.9833"
+           y="137.28413">Sağlığı Merkezi</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         x="1616.652"
+         y="115.69164"
+         id="text2200-47"><tspan
+           id="tspan3127"
+           sodipodi:role="line"
+           x="1616.652"
+           y="115.69164">Diyaliz</tspan><tspan
+           id="tspan3133"
+           sodipodi:role="line"
+           x="1616.652"
+           y="139.02502">Merkezi</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         x="208.57169"
+         y="327.54044"
+         id="text2200-46"><tspan
+           sodipodi:role="line"
+           id="tspan2198-0"
+           x="208.57169"
+           y="327.54044">Görüntüleme</tspan><tspan
+           id="tspan3131"
+           sodipodi:role="line"
+           x="208.57169"
+           y="350.87381">Merkezi</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         x="407.69141"
+         y="325.80865"
+         id="text2200-5"><tspan
+           sodipodi:role="line"
+           id="tspan2198-8"
+           x="407.69141"
+           y="325.80865">Verem Savaş</tspan><tspan
+           id="tspan3135"
+           sodipodi:role="line"
+           x="407.69141"
+           y="349.14203">Dispanseri</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         x="608.72858"
+         y="339.20258"
+         id="text2200-0"><tspan
+           sodipodi:role="line"
+           id="tspan2198-16"
+           x="608.72858"
+           y="339.20258">Göz Merkezi</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         x="811.59326"
+         y="327.42651"
+         id="text2200-9"><tspan
+           sodipodi:role="line"
+           id="tspan2198-84"
+           x="811.59326"
+           y="327.42651">Tanı Tedavi</tspan><tspan
+           id="tspan3137"
+           sodipodi:role="line"
+           x="811.59326"
+           y="350.75989">Merkezi</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         x="1007.0251"
+         y="327.42651"
+         id="text2200-467"><tspan
+           sodipodi:role="line"
+           id="tspan2198-14"
+           x="1007.0251"
+           y="327.42651">Fizik Tedavi</tspan><tspan
+           id="tspan3139"
+           sodipodi:role="line"
+           x="1007.0251"
+           y="350.75989">Merkezi</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         x="1219.7653"
+         y="339.0932"
+         id="text2200-93"><tspan
+           sodipodi:role="line"
+           id="tspan2198-9"
+           x="1219.7653"
+           y="339.0932">Klinikler</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         x="1375.1885"
+         y="328.90762"
+         id="text2200-23"><tspan
+           sodipodi:role="line"
+           id="tspan2198-49"
+           x="1375.1885"
+           y="328.90762">Üremeye Yardımcı</tspan><tspan
+           id="tspan3141"
+           sodipodi:role="line"
+           x="1375.1885"
+           y="352.241">Tedavi Merkezi</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         x="1574.6475"
+         y="325.62637"
+         id="text2200-22"><tspan
+           sodipodi:role="line"
+           id="tspan2198-6"
+           x="1574.6475"
+           y="325.62637">Rehabilitasyon ve</tspan><tspan
+           id="tspan3143"
+           sodipodi:role="line"
+           x="1574.6475"
+           y="348.95975">Aile Danışma M.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         x="1598.1024"
+         y="537.30652"
+         id="text2200-1"><tspan
+           sodipodi:role="line"
+           id="tspan2198-98"
+           x="1598.1024"
+           y="537.30652">Acil Yardım</tspan><tspan
+           id="tspan145"
+           sodipodi:role="line"
+           x="1598.1024"
+           y="560.63989">İstasyonu</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         x="1387.9813"
+         y="548.97321"
+         id="text2200-55"><tspan
+           sodipodi:role="line"
+           id="tspan2198-280"
+           x="1387.9813"
+           y="548.97321">Muayenehane</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         x="1182.8392"
+         y="539.27527"
+         id="text2200-29"><tspan
+           sodipodi:role="line"
+           id="tspan2198-5"
+           x="1182.8392"
+           y="539.27527">Belediye Sağlık</tspan><tspan
+           id="tspan143"
+           sodipodi:role="line"
+           x="1182.8392"
+           y="562.60864">Merkezi</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         x="1000.7788"
+         y="539.16132"
+         id="text2200-6"><tspan
+           sodipodi:role="line"
+           id="tspan2198-59"
+           x="1000.7788"
+           y="539.16132">Evde Bakım</tspan><tspan
+           id="tspan141"
+           sodipodi:role="line"
+           x="1000.7788"
+           y="562.49469">Merkezi</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         x="779.47974"
+         y="539.27527"
+         id="text2200-96"><tspan
+           sodipodi:role="line"
+           id="tspan2198-89"
+           x="779.47974"
+           y="539.27527">Anne Ç. Sağlığı</tspan><tspan
+           id="tspan3151"
+           sodipodi:role="line"
+           x="779.47974"
+           y="562.60864">ve Aile P. Merkezi</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         x="591.73621"
+         y="539.27527"
+         id="text2200-33"><tspan
+           sodipodi:role="line"
+           id="tspan2198-19"
+           x="591.73621"
+           y="539.27527">Toplum Sağlığı</tspan><tspan
+           id="tspan3147"
+           sodipodi:role="line"
+           x="591.73621"
+           y="562.60864">Merkezi</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         x="401.04865"
+         y="549.08716"
+         id="text2200-87"><tspan
+           sodipodi:role="line"
+           id="tspan2198-85"
+           x="401.04865"
+           y="549.08716">Sağlık Kabini</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         x="211.56419"
+         y="539.27527"
+         id="text2200-78"><tspan
+           sodipodi:role="line"
+           id="tspan2198-65"
+           x="211.56419"
+           y="539.27527">Aile Sağlığı</tspan><tspan
+           id="tspan3145"
+           sodipodi:role="line"
+           x="211.56419"
+           y="562.60864">Merkezi</tspan></text>
+      <text
+         id="text2200-78-1"
+         y="762.56287"
+         x="230.01161"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="762.56287"
+           x="230.01161"
+           id="tspan2198-65-8"
+           sodipodi:role="line">Huzurevi</tspan></text>
+      <text
+         id="text2200-78-3"
+         y="762.56287"
+         x="426.57809"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="762.56287"
+           x="426.57809"
+           id="tspan2198-65-5"
+           sodipodi:role="line">Bakımevi</tspan></text>
+      <text
+         id="text2200-78-6"
+         y="760.70807"
+         x="635.6452"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="760.70807"
+           x="635.6452"
+           id="tspan2198-65-9"
+           sodipodi:role="line">Kızılay</tspan></text>
+      <text
+         id="text2200-78-0"
+         y="760.82202"
+         x="820.07562"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="760.82202"
+           x="820.07562"
+           id="tspan2198-65-6"
+           sodipodi:role="line">Sağlık Evi</tspan></text>
+      <text
+         id="text2200-78-7"
+         y="762.56287"
+         x="1205.6116"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="762.56287"
+           x="1205.6116"
+           id="tspan2198-65-2"
+           sodipodi:role="line">Kan Merkezi</tspan></text>
+      <text
+         id="text2200-78-19"
+         y="749.04138"
+         x="982.18445"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="749.04138"
+           x="982.18445"
+           id="tspan2198-65-1"
+           sodipodi:role="line">Kadın Hastalıkları</tspan><tspan
+           id="tspan147"
+           y="772.37476"
+           x="982.18445"
+           sodipodi:role="line">ve Sağlığı Merkezi</tspan></text>
+      <text
+         id="text2200-78-70"
+         y="762.56287"
+         x="1418.1969"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="762.56287"
+           x="1418.1969"
+           id="tspan2198-65-52"
+           sodipodi:role="line">Veteriner</tspan></text>
+      <text
+         id="text2200-78-8"
+         y="760.82202"
+         x="1602.0074"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="760.82202"
+           x="1602.0074"
+           id="tspan2198-65-11"
+           sodipodi:role="line">Sağlık Diğer</tspan></text>
+    </g>
+    <g
+       id="g329"
+       transform="translate(-0.32299805,-850)"
+       style="image-rendering:auto"
+       onmouseover="">
+      <rect
+         y="850"
+         x="1515"
+         height="231.53625"
+         width="405.32306"
+         id="rect302"
+         style="fill:#808080;stroke-width:1.16572" />
+      <g
+         transform="translate(12.694489,11.387939)"
+         id="g295">
+        <ellipse
+           cy="978.4325"
+           cx="1562.3376"
+           id="path476-5"
+           style="fill:#ebddad;fill-opacity:1;stroke-width:0.344149"
+           rx="20"
+           ry="20.068876" />
+        <circle
+           style="fill:#adc0eb;fill-opacity:1;stroke-width:0.343558"
+           id="path476-67-4"
+           cx="1562.3376"
+           cy="930.25897"
+           r="20" />
+        <circle
+           r="20"
+           cy="882.1543"
+           cx="1562.3376"
+           id="path476-67-7-2"
+           style="fill:#adebd5;fill-opacity:1;stroke-width:0.343558" />
+        <circle
+           style="fill:#cccccc;stroke-width:0.343558"
+           id="path476-6-4-6-5"
+           cx="1562.3376"
+           cy="1026.6061"
+           r="20" />
+        <text
+           id="text2200-78-70-7"
+           y="886.98505"
+           x="1599.3824"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="886.98505"
+             x="1599.3824"
+             id="tspan2198-65-52-6"
+             sodipodi:role="line">Hastane Seviyesi</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none"
+           x="1599.3824"
+           y="935.03857"
+           id="text2200-78-70-7-1"><tspan
+             sodipodi:role="line"
+             id="tspan2198-65-52-6-0"
+             x="1599.3824"
+             y="935.03857">Özel Bakım Seviyesi</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none"
+           x="1599.3824"
+           y="983.09216"
+           id="text2200-78-70-7-0"><tspan
+             sodipodi:role="line"
+             id="tspan2198-65-52-6-06"
+             x="1599.3824"
+             y="983.09216">İlk Adım Seviyesi</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none"
+           x="1599.3824"
+           y="1031.1458"
+           id="text2200-78-70-7-5"><tspan
+             sodipodi:role="line"
+             id="tspan2198-65-52-6-6"
+             x="1599.3824"
+             y="1031.1458">Diğer</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none"
+           x="1836.6492"
+           y="896.28516"
+           id="text2200-78-70-7-3"><tspan
+             sodipodi:role="line"
+             id="tspan2198-65-52-6-69"
+             x="1836.6492"
+             y="896.28516">6</tspan></text>
+        <text
+           id="text2200-78-70-7-3-9"
+           y="941.86444"
+           x="1825.0574"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="941.86444"
+             x="1825.0574"
+             id="tspan2198-65-52-6-69-6"
+             sodipodi:role="line">10</tspan></text>
+        <text
+           id="text2200-78-70-7-3-5"
+           y="987.44373"
+           x="1836.6492"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="987.44373"
+             x="1836.6492"
+             id="tspan2198-65-52-6-69-62"
+             sodipodi:role="line">6</tspan></text>
+        <text
+           id="text2200-78-70-7-3-0"
+           y="1033.0229"
+           x="1825.0574"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="1033.0229"
+             x="1825.0574"
+             id="tspan2198-65-52-6-69-2"
+             sodipodi:role="line">10</tspan></text>
+      </g>
+    </g>
+    <text
+       id="text2200-78-70-7-3-4"
+       y="82.782623"
+       x="173.85341"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:66.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;image-rendering:auto"
+       xml:space="preserve"><tspan
+         y="82.782623"
+         x="173.85341"
+         id="tspan2198-65-52-6-69-3"
+         sodipodi:role="line">Sağlık Kuruluşlarının Verdikleri </tspan><tspan
+         y="166.116"
+         x="173.85341"
+         sodipodi:role="line"
+         id="tspan514">Hizmet Seviyesine Göre Dağılımı</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text516"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect518);" />
+  </g>
+</svg>

@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="C:\Users\ejgen\OneDrive\Desktop\test2_tr_white.png"
+   sodipodi:docname="care type categories_whitebackground_eng.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   width="1920.0px"
+   height="1080.0px"
+   viewBox="0 0 1920.0 1080.0"
+   version="1.1"
+   id="SVGRoot">
+  <defs
+     id="defs1692">
+    <rect
+       id="rect518"
+       height="103.03556"
+       width="436.3859"
+       y="70.710678"
+       x="654.57885" />
+    <rect
+       id="rect2210"
+       height="42.426407"
+       width="101.01525"
+       y="83.842661"
+       x="379.81736" />
+    <rect
+       id="rect2204"
+       height="50.507627"
+       width="106.06602"
+       y="82.832509"
+       x="379.81736" />
+  </defs>
+  <sodipodi:namedview
+     showguides="false"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-11"
+     inkscape:window-x="-11"
+     inkscape:window-height="986"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer9"
+     inkscape:document-units="px"
+     inkscape:cy="241.80363"
+     inkscape:cx="1539.1447"
+     inkscape:zoom="0.835695"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata1695">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1" />
+  <g
+     inkscape:label="Background Layer"
+     id="layer7"
+     inkscape:groupmode="layer">
+    <rect
+       y="0"
+       x="0"
+       height="1080"
+       width="1920"
+       id="rect1706"
+       style="fill:#ffffff;stroke:none" />
+  </g>
+  <g
+     inkscape:label="Bounding Box Layer"
+     id="layer4"
+     inkscape:groupmode="layer">
+    <rect
+       ry="51.729496"
+       y="238.20001"
+       x="176.72459"
+       height="816.17291"
+       width="1569.1929"
+       id="rect1677"
+       style="fill:#f9f9f9;stroke:none;stroke-width:2.92766;stroke-miterlimit:4;stroke-dasharray:8.78298, 2.92765999999999993;stroke-dashoffset:0" />
+  </g>
+  <g
+     inkscape:label="Bubble Layer"
+     id="layer8"
+     inkscape:groupmode="layer">
+    <g
+       inkscape:label="Legend Box"
+       id="layer2"
+       inkscape:groupmode="layer" />
+  </g>
+  <g
+     inkscape:label="Legend Layer"
+     id="layer3"
+     inkscape:groupmode="layer" />
+  <g
+     inkscape:label="Text Layer"
+     id="layer9"
+     inkscape:groupmode="layer">
+    <text
+       style="font-style:normal;font-weight:bold;font-size:18.66666667px;line-height:1.25;font-family:Arial;white-space:pre;shape-inside:url(#rect2204);fill:#000000;fill-opacity:1;stroke:none;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       id="text2202"
+       xml:space="preserve" />
+    <text
+       style="font-style:normal;font-weight:bold;font-size:18.66666667px;line-height:1.25;font-family:Arial;white-space:pre;shape-inside:url(#rect2210);fill:#000000;fill-opacity:1;stroke:none;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+       id="text2208"
+       xml:space="preserve" />
+    <g
+       transform="translate(1.2207031e-4,-0.81154)"
+       id="g1895">
+      <ellipse
+         style="fill:#adc0eb;fill-opacity:1;stroke-width:0.983379"
+         id="path1765"
+         cx="266.53027"
+         cy="540"
+         rx="88.893433"
+         ry="88.893425" />
+      <ellipse
+         ry="88.893425"
+         rx="88.893433"
+         cy="540"
+         cx="464.66446"
+         id="path1765-7"
+         style="fill:#adc0eb;fill-opacity:1;stroke-width:0.983379" />
+      <ellipse
+         style="fill:#adc0eb;fill-opacity:1;stroke-width:0.983379"
+         id="path1765-7-5"
+         cx="662.79865"
+         cy="540"
+         rx="88.893433"
+         ry="88.893425" />
+      <ellipse
+         ry="88.893425"
+         rx="88.893433"
+         cy="540"
+         cx="860.93286"
+         id="path1765-7-5-4"
+         style="fill:#adc0eb;fill-opacity:1;stroke-width:0.983379" />
+      <ellipse
+         ry="88.893425"
+         rx="88.893433"
+         cy="540"
+         cx="1059.0671"
+         id="path1765-7-5-8"
+         style="fill:#adc0eb;fill-opacity:1;stroke-width:0.983379" />
+      <ellipse
+         style="fill:#adc0eb;fill-opacity:1;stroke-width:0.983379"
+         id="path1765-7-5-8-4"
+         cx="1257.2012"
+         cy="540"
+         rx="88.893433"
+         ry="88.893425" />
+      <ellipse
+         style="fill:#adc0eb;fill-opacity:1;stroke-width:0.983379"
+         id="path1765-7-5-8-7"
+         cx="1455.3353"
+         cy="540"
+         rx="88.893433"
+         ry="88.893425" />
+      <ellipse
+         style="fill:#adc0eb;fill-opacity:1;stroke-width:0.983379"
+         id="path1765-7-5-8-6"
+         cx="1653.4695"
+         cy="540"
+         rx="88.893433"
+         ry="88.893425" />
+    </g>
+    <g
+       transform="translate(1.2207031e-4,-212.54641)"
+       id="g1895-0">
+      <ellipse
+         ry="88.893425"
+         rx="88.893433"
+         cy="540"
+         cx="266.53027"
+         id="path1765-3"
+         style="fill:#adebd5;fill-opacity:1;stroke-width:0.983379" />
+      <ellipse
+         style="fill:#adebd5;fill-opacity:1;stroke-width:0.983379"
+         id="path1765-7-8"
+         cx="464.66446"
+         cy="540"
+         rx="88.893433"
+         ry="88.893425" />
+      <ellipse
+         ry="88.893425"
+         rx="88.893433"
+         cy="540"
+         cx="662.79865"
+         id="path1765-7-5-41"
+         style="fill:#adebd5;fill-opacity:1;stroke-width:0.983379" />
+      <ellipse
+         style="fill:#adebd5;fill-opacity:1;stroke-width:0.983379"
+         id="path1765-7-5-4-9"
+         cx="860.93286"
+         cy="540"
+         rx="88.893433"
+         ry="88.893425" />
+      <ellipse
+         style="fill:#adebd5;fill-opacity:1;stroke-width:0.983379"
+         id="path1765-7-5-8-43"
+         cx="1059.0671"
+         cy="540"
+         rx="88.893433"
+         ry="88.893425" />
+      <ellipse
+         ry="88.893425"
+         rx="88.893433"
+         cy="540"
+         cx="1257.2012"
+         id="path1765-7-5-8-4-1"
+         style="fill:#adebd5;fill-opacity:1;stroke-width:0.983379" />
+      <ellipse
+         ry="88.893425"
+         rx="88.893433"
+         cy="540"
+         cx="1455.3353"
+         id="path1765-7-5-8-7-3"
+         style="fill:#adc0eb;fill-opacity:1;stroke-width:0.983379" />
+      <ellipse
+         ry="88.893425"
+         rx="88.893433"
+         cy="540"
+         cx="1653.4695"
+         id="path1765-7-5-8-6-1"
+         style="fill:#adc0eb;fill-opacity:1;stroke-width:0.983379" />
+    </g>
+    <g
+       id="g1895-0-1"
+       transform="translate(1.2207031e-4,210.92329)">
+      <ellipse
+         style="fill:#ebddad;fill-opacity:1;stroke-width:0.983379"
+         id="path1765-3-9"
+         cx="266.53027"
+         cy="540"
+         rx="88.893433"
+         ry="88.893425" />
+      <ellipse
+         ry="88.893425"
+         rx="88.893433"
+         cy="540"
+         cx="464.66446"
+         id="path1765-7-8-9"
+         style="fill:#ebddad;fill-opacity:1;stroke-width:0.983379" />
+      <ellipse
+         style="fill:#ebddad;fill-opacity:1;stroke-width:0.983379"
+         id="path1765-7-5-41-8"
+         cx="662.79865"
+         cy="540"
+         rx="88.893433"
+         ry="88.893425" />
+      <ellipse
+         ry="88.893425"
+         rx="88.893433"
+         cy="540"
+         cx="860.93286"
+         id="path1765-7-5-4-9-7"
+         style="fill:#ebddad;fill-opacity:1;stroke-width:0.983379" />
+      <ellipse
+         ry="88.893425"
+         rx="88.893433"
+         cy="540"
+         cx="1059.0671"
+         id="path1765-7-5-8-43-4"
+         style="fill:#ebddad;fill-opacity:1;stroke-width:0.983379" />
+      <ellipse
+         style="fill:#ebddad;fill-opacity:1;stroke-width:0.983379"
+         id="path1765-7-5-8-4-1-6"
+         cx="1257.2012"
+         cy="540"
+         rx="88.893433"
+         ry="88.893425" />
+      <ellipse
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.983379"
+         id="path1765-7-5-8-7-3-9"
+         cx="1455.3353"
+         cy="540"
+         rx="88.893433"
+         ry="88.893425" />
+      <ellipse
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.983379"
+         id="path1765-7-5-8-6-1-2"
+         cx="1653.4695"
+         cy="540"
+         rx="88.893433"
+         ry="88.893425" />
+    </g>
+    <g
+       transform="translate(1.2207031e-4,422.65815)"
+       id="g1895-0-1-7">
+      <ellipse
+         ry="88.893425"
+         rx="88.893433"
+         cy="540"
+         cx="266.53027"
+         id="path1765-3-9-7"
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.983379" />
+      <ellipse
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.983379"
+         id="path1765-7-8-9-6"
+         cx="464.66446"
+         cy="540"
+         rx="88.893433"
+         ry="88.893425" />
+      <ellipse
+         ry="88.893425"
+         rx="88.893433"
+         cy="540"
+         cx="662.79865"
+         id="path1765-7-5-41-8-1"
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.983379" />
+      <ellipse
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.983379"
+         id="path1765-7-5-4-9-7-3"
+         cx="860.93286"
+         cy="540"
+         rx="88.893433"
+         ry="88.893425" />
+      <ellipse
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.983379"
+         id="path1765-7-5-8-43-4-0"
+         cx="1059.0671"
+         cy="540"
+         rx="88.893433"
+         ry="88.893425" />
+      <ellipse
+         ry="88.893425"
+         rx="88.893433"
+         cy="540"
+         cx="1257.2012"
+         id="path1765-7-5-8-4-1-6-9"
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.983379" />
+      <ellipse
+         ry="88.893425"
+         rx="88.893433"
+         cy="540"
+         cx="1455.3353"
+         id="path1765-7-5-8-7-3-9-2"
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.983379" />
+      <ellipse
+         ry="88.893425"
+         rx="88.893433"
+         cy="540"
+         cx="1653.4695"
+         id="path1765-7-5-8-6-1-2-8"
+         style="fill:#cccccc;fill-opacity:1;stroke-width:0.983379" />
+    </g>
+    <text
+       id="text2200"
+       y="332.29346"
+       x="229.64362"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="332.29346"
+         x="229.64362"
+         id="tspan2198"
+         sodipodi:role="line">Hospital</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="420.64105"
+       y="332.17041"
+       id="text2200-8"><tspan
+         sodipodi:role="line"
+         id="tspan2198-7"
+         x="420.64105"
+         y="332.17041">Polyclinic</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="616.60144"
+       y="334.13458"
+       id="text2200-7"><tspan
+         sodipodi:role="line"
+         id="tspan2198-2"
+         x="616.60144"
+         y="334.13458">Medical C.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="803.82544"
+       y="332.17041"
+       id="text2200-4"><tspan
+         id="tspan3121"
+         sodipodi:role="line"
+         x="803.82544"
+         y="332.17041">University H.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="1206.4011"
+       y="332.17041"
+       id="text2200-3"><tspan
+         id="tspan3123"
+         sodipodi:role="line"
+         x="1206.4011"
+         y="332.17041">Maternity H</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="1014.4376"
+       y="332.17041"
+       id="text2200-2"><tspan
+         sodipodi:role="line"
+         id="tspan2198-27"
+         x="1014.4376"
+         y="332.17041">Military H.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="1383.6947"
+       y="334.13458"
+       id="text2200-40"><tspan
+         id="tspan3125"
+         sodipodi:role="line"
+         x="1383.6947"
+         y="334.13458">Dental Health C.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="1606.2195"
+       y="332.28433"
+       id="text2200-47"><tspan
+         id="tspan3133"
+         sodipodi:role="line"
+         x="1606.2195"
+         y="332.28433">Dialysis C.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="209.75555"
+       y="544.01923"
+       id="text2200-46"><tspan
+         id="tspan3131"
+         sodipodi:role="line"
+         x="209.75555"
+         y="544.01923">Screening C.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="407.4978"
+       y="532.23859"
+       id="text2200-5"><tspan
+         id="tspan3135"
+         sodipodi:role="line"
+         x="407.4978"
+         y="532.23859">Tuberculosis</tspan><tspan
+         id="tspan174"
+         sodipodi:role="line"
+         x="407.4978"
+         y="555.57196">Dispensary</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="594.07922"
+       y="534.20276"
+       id="text2200-0"><tspan
+         sodipodi:role="line"
+         id="tspan2198-16"
+         x="594.07922"
+         y="534.20276">Ophthalmology</tspan><tspan
+         id="tspan178"
+         sodipodi:role="line"
+         x="594.07922"
+         y="557.53613">C.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="791.00122"
+       y="532.23859"
+       id="text2200-9"><tspan
+         id="tspan3137"
+         sodipodi:role="line"
+         x="791.00122"
+         y="532.23859">Early Diagnosis</tspan><tspan
+         id="tspan182"
+         sodipodi:role="line"
+         x="791.00122"
+         y="555.57196">and Therapy C.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="981.96228"
+       y="534.08887"
+       id="text2200-467"><tspan
+         id="tspan3139"
+         sodipodi:role="line"
+         x="981.96228"
+         y="534.08887">Physical Therapy</tspan><tspan
+         id="tspan186"
+         sodipodi:role="line"
+         x="981.96228"
+         y="557.42224">C.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="1194.233"
+       y="545.86945"
+       id="text2200-93"><tspan
+         sodipodi:role="line"
+         id="tspan2198-9"
+         x="1194.233"
+         y="545.86945">General Clinic</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="1393.4199"
+       y="534.08887"
+       id="text2200-23"><tspan
+         id="tspan3141"
+         sodipodi:role="line"
+         x="1393.4199"
+         y="534.08887">Reproductory </tspan><tspan
+         id="tspan190"
+         sodipodi:role="line"
+         x="1393.4199"
+         y="557.42224">Health C.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="1572.4453"
+       y="532.23859"
+       id="text2200-22"><tspan
+         id="tspan3143"
+         sodipodi:role="line"
+         x="1572.4453"
+         y="532.23859">Rehabilitation and</tspan><tspan
+         id="tspan198"
+         sodipodi:role="line"
+         x="1572.4453"
+         y="555.57196">Family Coun. C.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="1616.2136"
+       y="745.81909"
+       id="text2200-1"><tspan
+         id="tspan145"
+         sodipodi:role="line"
+         x="1616.2136"
+         y="745.81909">First Aid</tspan><tspan
+         id="tspan224"
+         sodipodi:role="line"
+         x="1616.2136"
+         y="769.15247">Station</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="1388.4651"
+       y="757.60431"
+       id="text2200-55"><tspan
+         sodipodi:role="line"
+         id="tspan2198-280"
+         x="1388.4651"
+         y="757.60431">Doctor's Office</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="1202.7371"
+       y="745.82367"
+       id="text2200-29"><tspan
+         id="tspan143"
+         sodipodi:role="line"
+         x="1202.7371"
+         y="745.82367">Municipality</tspan><tspan
+         id="tspan220"
+         sodipodi:role="line"
+         x="1202.7371"
+         y="769.15704">Health C.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="985.33813"
+       y="745.93762"
+       id="text2200-6"><tspan
+         id="tspan141"
+         sodipodi:role="line"
+         x="985.33813"
+         y="745.93762">Domiciliary Care</tspan><tspan
+         id="tspan216"
+         sodipodi:role="line"
+         x="985.33813"
+         y="769.271">C.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="797.07153"
+       y="745.82367"
+       id="text2200-96"><tspan
+         id="tspan3151"
+         sodipodi:role="line"
+         x="797.07153"
+         y="745.82367">Planned </tspan><tspan
+         id="tspan208"
+         sodipodi:role="line"
+         x="797.07153"
+         y="769.15704">Parenthood C.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="591.68213"
+       y="757.60431"
+       id="text2200-33"><tspan
+         id="tspan3147"
+         sodipodi:role="line"
+         x="591.68213"
+         y="757.60431">Public Health C.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="407.53882"
+       y="757.60431"
+       id="text2200-87"><tspan
+         sodipodi:role="line"
+         id="tspan2198-85"
+         x="407.53882"
+         y="757.60431">Health Cabin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="206.01857"
+       y="745.82367"
+       id="text2200-78"><tspan
+         id="tspan3145"
+         sodipodi:role="line"
+         x="206.01857"
+         y="745.82367">Family Health</tspan><tspan
+         id="tspan202"
+         sodipodi:role="line"
+         x="206.01857"
+         y="769.15704">C.</tspan></text>
+    <text
+       id="text2200-78-1"
+       y="957.677"
+       x="211.74139"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="957.677"
+         x="211.74139"
+         id="tspan2198-65-8"
+         sodipodi:role="line">Elderly Care</tspan><tspan
+         id="tspan226"
+         y="981.01038"
+         x="211.74139"
+         sodipodi:role="line">Fac.</tspan></text>
+    <text
+       id="text2200-78-3"
+       y="967.37494"
+       x="397.94"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="967.37494"
+         x="397.94"
+         id="tspan2198-65-5"
+         sodipodi:role="line">Nursing House</tspan></text>
+    <text
+       id="text2200-78-6"
+       y="957.55853"
+       x="602.51025"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="957.55853"
+         x="602.51025"
+         id="tspan2198-65-9"
+         sodipodi:role="line">Turkish </tspan><tspan
+         id="tspan228"
+         y="980.89191"
+         x="602.51025"
+         sodipodi:role="line">Red Crescent</tspan></text>
+    <text
+       id="text2200-78-0"
+       y="969.2298"
+       x="800.94409"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="969.2298"
+         x="800.94409"
+         id="tspan2198-65-6"
+         sodipodi:role="line">Health House</tspan></text>
+    <text
+       id="text2200-78-7"
+       y="969.2298"
+       x="1204.7332"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="969.2298"
+         x="1204.7332"
+         id="tspan2198-65-2"
+         sodipodi:role="line">Blood Bank</tspan></text>
+    <text
+       id="text2200-78-19"
+       y="957.55853"
+       x="989.71429"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan147"
+         y="957.55853"
+         x="989.71429"
+         sodipodi:role="line">Maternal Health</tspan><tspan
+         id="tspan232"
+         y="980.89191"
+         x="989.71429"
+         sodipodi:role="line">C.</tspan></text>
+    <text
+       id="text2200-78-70"
+       y="967.48889"
+       x="1382.4095"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="967.48889"
+         x="1382.4095"
+         id="tspan2198-65-52"
+         sodipodi:role="line">Veterinary Clinic</tspan></text>
+    <text
+       id="text2200-78-8"
+       y="969.33917"
+       x="1628.0399"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan234"
+         y="969.33917"
+         x="1628.0399"
+         sodipodi:role="line">Other</tspan></text>
+    <g
+       transform="translate(4.3977402,1.0994351)"
+       id="g1771">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:2.82258;stroke-miterlimit:4;stroke-dasharray:none;image-rendering:auto"
+         id="rect302"
+         width="389.98792"
+         height="213.02005"
+         x="1514.6486"
+         y="18.544661"
+         ry="37.192848" />
+      <g
+         style="image-rendering:auto"
+         id="g295"
+         transform="translate(4.6754761,-829.3255)">
+        <ellipse
+           ry="20.068876"
+           rx="20"
+           style="fill:#ebddad;fill-opacity:1;stroke-width:0.344149"
+           id="path476-5"
+           cx="1562.3376"
+           cy="978.4325" />
+        <circle
+           r="20"
+           cy="930.25897"
+           cx="1562.3376"
+           id="path476-67-4"
+           style="fill:#adc0eb;fill-opacity:1;stroke-width:0.343558" />
+        <circle
+           style="fill:#adebd5;fill-opacity:1;stroke-width:0.343558"
+           id="path476-67-7-2"
+           cx="1562.3376"
+           cy="882.1543"
+           r="20" />
+        <circle
+           r="20"
+           cy="1026.6061"
+           cx="1562.3376"
+           id="path476-6-4-6-5"
+           style="fill:#cccccc;stroke-width:0.343558" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none"
+           x="1599.3824"
+           y="886.98505"
+           id="text2200-78-70-7"><tspan
+             sodipodi:role="line"
+             id="tspan2198-65-52-6"
+             x="1599.3824"
+             y="886.98505"
+             style="fill:#000000">Hospital Level</tspan></text>
+        <text
+           id="text2200-78-70-7-1"
+           y="935.03857"
+           x="1599.3824"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="935.03857"
+             x="1599.3824"
+             id="tspan2198-65-52-6-0"
+             sodipodi:role="line"
+             style="fill:#000000">Specialized Care</tspan></text>
+        <text
+           id="text2200-78-70-7-0"
+           y="983.09216"
+           x="1599.3824"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="983.09216"
+             x="1599.3824"
+             id="tspan2198-65-52-6-06"
+             sodipodi:role="line"
+             style="fill:#000000">First Step Care</tspan></text>
+        <text
+           id="text2200-78-70-7-5"
+           y="1031.1458"
+           x="1599.3824"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="1031.1458"
+             x="1599.3824"
+             id="tspan2198-65-52-6-6"
+             sodipodi:role="line"
+             style="fill:#000000">Other</tspan></text>
+        <text
+           id="text2200-78-70-7-3"
+           y="896.28516"
+           x="1836.6492"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="896.28516"
+             x="1836.6492"
+             id="tspan2198-65-52-6-69"
+             sodipodi:role="line"
+             style="fill:#000000">6</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none"
+           x="1825.0574"
+           y="941.86444"
+           id="text2200-78-70-7-3-9"><tspan
+             sodipodi:role="line"
+             id="tspan2198-65-52-6-69-6"
+             x="1825.0574"
+             y="941.86444"
+             style="fill:#000000">10</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none"
+           x="1836.6492"
+           y="987.44373"
+           id="text2200-78-70-7-3-5"><tspan
+             sodipodi:role="line"
+             id="tspan2198-65-52-6-69-62"
+             x="1836.6492"
+             y="987.44373"
+             style="fill:#000000">6</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none"
+           x="1825.0574"
+           y="1033.0229"
+           id="text2200-78-70-7-3-0"><tspan
+             sodipodi:role="line"
+             id="tspan2198-65-52-6-69-2"
+             x="1825.0574"
+             y="1033.0229"
+             style="fill:#000000">10</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:66.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;image-rendering:auto"
+       x="173.85341"
+       y="82.782623"
+       id="text2200-78-70-7-3-4"><tspan
+         id="tspan514"
+         sodipodi:role="line"
+         x="173.85341"
+         y="82.782623">Distribution of Healthcare Institutions</tspan><tspan
+         id="tspan240"
+         sodipodi:role="line"
+         x="173.85341"
+         y="166.116">According to Their Level of Care.</tspan></text>
+    <text
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect518);"
+       id="text516"
+       xml:space="preserve" />
+    <text
+       id="text244"
+       y="156.75575"
+       x="1715.937"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="156.75575"
+         x="1715.937"
+         id="tspan242"
+         sodipodi:role="line" /></text>
+  </g>
+</svg>
