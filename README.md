@@ -1,6 +1,6 @@
 # An Exercise in Open Data: Mapping Istanbul’s Health Services
 
-![Header](https://github.com/ejgenc/portfolio/blob/master/Portfolio%20Media/map_eng.png)
+![Header](https://github.com/ejgenc/Data-Analysis_Istanbul-Health-Services-Map/blob/master/Media/Plots/map/map_eng.png)
 
 ## What is this?
 
